@@ -1,0 +1,54 @@
+[
+    {
+        "name" : "Dashboard",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/logo.png"
+    },
+    {
+        "name" : "App",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/menu-icon/2.svg"
+    },
+    {
+        "name" : "UI Kits",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/menu-icon/2.svg"
+    },
+    {
+        "name" : "forms",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/menu-icon/2.svg"
+    },
+    {
+        "name" : "Icons",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/menu-icon/2.svg"
+    },
+    {
+        "name" : "Animations",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/menu-icon/6.svg"
+    },
+    {
+        "name" : "Components",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/menu-icon/10.svg"
+    },
+    {
+        "name" : "Table",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/menu-icon/10.svg"
+    },
+    {
+        "name" : "Cards",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/menu-icon/10.svg"
+    },
+    {
+        "name" : "Charts",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/menu-icon/7.svg"
+    },
+    {
+        "name" : "Widgets",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/menu-icon/7.svg"
+    },
+    {
+        "name" : "Maps",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/menu-icon/10.svg"
+    },
+    {
+        "name" : "Pages",
+        "icon" : "https://demo.dashboardpack.com/marketing-html/img/menu-icon/10.svg"
+    }
+]
